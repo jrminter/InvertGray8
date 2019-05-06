@@ -13,7 +13,7 @@ import ij.ImagePlus;
 import ij.plugin.filter.PlugInFilter;
 import ij.process.ImageProcessor;
 
-public class Invert_G8 implements PlugInFilter {
+public class InvertGray8 implements PlugInFilter {
 
 	public int setup(String arg, ImagePlus im) {
 		return DOES_8G; // this plugin accepts 8-bit grayscale images 

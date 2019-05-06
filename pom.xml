@@ -16,13 +16,13 @@
 	<artifactId>InvertGray8</artifactId>
 	<version>0.1.0</version>
 
-	<name>Invert-G8</name>
-	<description>Invert 8-bit gray-level images.</description>
-	<url>https://github.com/jrminter/InvertGray8</url>
+	<name>InvertGray8</name>
+	<description>Invert an 8-bit grayscale image.</description>
+	<url>https://minter-analytics.netify.com</url>
 	<inceptionYear>2012</inceptionYear>
 	<organization>
-		<name>jrminter</name>
-		<url>https://github.com/jrminter</url>
+		<name>Minter Analytics</name>
+		<url>https://minter-analytics.netlify.com/</url>
 	</organization>
 	<licenses>
 		<license>
@@ -35,7 +35,7 @@
 		<developer>
 			<id>jrminter</id>
 			<name>John Minter</name>
-			<url>https://github.com/jrminter</url>
+			<url>https://minter-analytics.netlify.com</url>
 			<roles>
 				<role>lead</role>
 				<role>developer</role>
